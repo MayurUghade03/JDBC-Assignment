@@ -11,10 +11,11 @@ public class DBJava {
             conn = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/Student_db",
                     "root",
-                    "Mayur@321");
+                    "Password");
         }catch (Exception ex){
             ex.printStackTrace();
         }
         return conn;
     }
+
 }
