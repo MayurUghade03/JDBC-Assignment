@@ -8,7 +8,7 @@ public class Task4 {
         String mysqlDriver = "com.mysql.cj.jdbc.Driver";
         String mysqlUrl = "jdbc:mysql://localhost:3306/Student_db";
         String userName = "root";
-        String password = "Mayur@321";
+        String password = "Password";
         Scanner sc = new Scanner(System.in);
         try{
             Class.forName(mysqlDriver);
