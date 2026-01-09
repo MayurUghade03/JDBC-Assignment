@@ -115,20 +115,7 @@ Mayur Ughade
 Learning Java | JDBC | MySQL
 
 
----
 
-## ✅ What this README gives you
-✔ Professional GitHub look  
-✔ Clear explanation for interviewers  
-✔ Perfect for college submission  
-✔ Beginner-friendly  
-✔ No unnecessary complexity  
 
-If you want, I can also:
-- Improve **code structure**
-- Add **screenshots**
-- Convert this into a **mini project**
-- Add **JDBC + MVC structure**
 
-Just tell me 👍
 
